@@ -19,7 +19,7 @@ try:
 except:
     pass
 
-st.subheader("La historia de terror mas corta del mundo "Knock"")
+st.subheader("La historia de terror mas corta del mundo: Knock")
 st.write("El último hombre sobre la tierra estaba sentado solo en una habitación. De repente, tocan a la puerta")
            
 st.markdown(f"Quieres escucharlo?, copia el texto")
